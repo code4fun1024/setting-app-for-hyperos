@@ -24,3 +24,9 @@ for example:
 ![rom code](./rom_code.jpg)
 
 download the apk file that the file name including your `ROM code`.
+
+# APK files
+If you can not find the proper apk file, please put your "ROM code" [here](https://github.com/code4fun1024/setting-app-for-hyperos/issues/1), I will extract it on priority on my free time.
+
+* [Settings_GARNETEEAGlobal_from_OS1.0.8.0.UNREUXM.apk](https://drive.google.com/file/d/18VGV58Ci9eCs4TgR2ZCNdtAhE0fS5tIG/view?usp=sharing)
+* [Settings_DIZIGlobal_from_OS1.0.1.0.UNSMIXM.apk](https://drive.google.com/file/d/1pDqKStGz42uGHDy-KMpNccajQLnioB-r/view?usp=sharing)
