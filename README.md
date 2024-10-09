@@ -1,6 +1,3 @@
-# setting-app-for-hyperos
-Old version Settings app for HyperOS.
-
 # What's this?
 This is a collection of earliest Setting app apk file of HyperOS.
 If the error code `10000` occurred when unlock BootLoader using [Xiaomi HyperOS BootLoader Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass), you can try to install the old version Settings app and unlock again.
