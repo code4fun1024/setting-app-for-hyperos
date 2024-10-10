@@ -30,3 +30,4 @@ If you can not find the proper apk file, please put your "ROM code" [here](https
 * [Settings_AGATEGlobal_from_OS1.0.2.0.UKWMIXM.apk](https://drive.google.com/file/d/1GI9jXEfUGecSeJ8X2fj7qmc8hYgDK4CI/view?usp=sharing)
 * [Settings_FIREINGlobal_from_OS1.0.1.0.UMXINXM.apk](https://drive.google.com/file/d/14a42VhXgNXXAOQ_qweeCqqi2T480ucLQ/view?usp=sharing)
 * [Settings_ZIRCONGlobal_from_OS1.0.1.0.UNOMIXM.apk](https://drive.google.com/file/d/1bMDkd_L0FJMGkdn3tbzO2_kVy8Edn3A3/view?usp=sharing)
+* [Settings_GARNETINGlobal_from_OS1.0.3.0.UNRINXM.apk](https://drive.google.com/file/d/1yXxZyaiP8fZzAAL2laDAHXAPZoLZGqRP/view?usp=sharing)
