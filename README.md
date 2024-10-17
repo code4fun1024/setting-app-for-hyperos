@@ -37,3 +37,5 @@ If you can not find the proper apk file, please put your "ROM code" [here](https
 * [Settings_RUBYEEAGlobal_from_OS1.0.1.0.UMOEUXM.apk](https://drive.google.com/file/d/1kgKfIN7eaqPFcOO-y2lzMaH_gdNpFqHD/view?usp=sharing)
 * [Settings_RUBYIDGlobal_from_OS1.0.2.0.UMOIDXM.apk](https://drive.google.com/file/d/1x6nweAGSJ-OYptUYefM91E3Pkcr-YbJK/view?usp=sharing)
 * [Settings_SPESGlobal_from_OS1.0.3.0.TGCMIXM.apk](https://drive.google.com/file/d/18OjtjeGMt6Ijvwsw4OTqmq20PwB3SdRY/view?usp=sharing)
+* [Settings_MALACHITE_from_OS1.0.5.0.UOOCNXM.apk](https://drive.google.com/file/d/1SMYWGxj4FVF2dlOIC9p1tl3KDLB94gcy/view?usp=sharing)
+* [Settings_XUNGlobal_from_OS1.0.1.0.UMUMIXM.apk](https://drive.google.com/file/d/1SarPDlcXc98kwZWhKlFbbyLL-pgIGsrH/view?usp=sharing)
