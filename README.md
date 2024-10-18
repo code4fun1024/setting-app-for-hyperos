@@ -42,3 +42,7 @@ If you can not find the proper apk file, please put your "ROM code" [here](https
 * [Settings_XAGA_from_OS1.0.1.0.ULOCNXM.apk](https://drive.google.com/file/d/13W8urCsfnvmuYPhSN6isQiQooLaUO6T3/view?usp=sharing)
 * [Settings_GARNETIDGlobal_from_OS1.0.2.0.UNRIDXM.apk](https://drive.google.com/file/d/1AKVY_KI0oCD1eR_THN9yTBloMvkk4Niz/view?usp=sharing)
 * [Settings_RUBYGlobal_from_OS1.0.1.0.UMOMIXM.apk](https://drive.google.com/file/d/1vB7WKHOMuoJN7zivvZR22IFzGUaExRNH/view?usp=sharing)
+* [Settings_GARNETGlobal_from_OS1.0.4.0.UNRMIXM.apk](https://drive.google.com/file/d/1avtSAOweGKzqMxw00BwAEiMZjZPsxlMf/view?usp=sharing)
+* [Settings_BREEZE_from_OS1.0.3.0.UNUCNXM.apk](https://drive.google.com/file/d/1ww0eIsJOsMePciV5BSV2Ga2tj6Eg-iDO/view?usp=sharing)
+* [Settings_PERIDOTEEAGlobal_from_OS1.0.1.0.UNPEUXM.apk](https://drive.google.com/file/d/1L8f4AETYE22uIT_-O60Qsg2eoBRL6jg_/view?usp=sharing)
+* [Settings_PERIDOTGlobal_from_OS1.0.3.0.UNPMIXM.apk](https://drive.google.com/file/d/1895LP7RbW1_gLcgua7Ig6fVbaDhw6YrK/view?usp=sharing)
